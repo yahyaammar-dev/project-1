@@ -3,6 +3,17 @@
 xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/pa
 ge_configuration.xsd">
 	<body>
+
+
+
+
+
+
+		<!-- Top Bar-->
+		
+
+
+
 		<referenceBlock name="logo">
 			<action method="setLogoFile">
 				<argument name="logo_file" xsi:type="string">
@@ -12,3 +23,5 @@ ge_configuration.xsd">
 		</referenceBlock>
 	</body>
 </page>
+
+
